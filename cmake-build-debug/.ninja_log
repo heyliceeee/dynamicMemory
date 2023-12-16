@@ -1,0 +1,5 @@
+# ninja log v5
+19	305	7244488789788331	CMakeFiles/dynamicMemory.dir/input.c.obj	d93fed7f03e52d11
+1	323	7244488789999887	CMakeFiles/dynamicMemory.dir/main.c.obj	a78b5b1477a5c891
+10	332	7244488790097624	CMakeFiles/dynamicMemory.dir/students.c.obj	d55ee99d829527f
+332	800	7244488794715944	dynamicMemory.exe	cf24a6b4c6d46291

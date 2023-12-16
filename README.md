@@ -1,2 +1,2 @@
-# dynamicMemory
+# Dynamic Memory
  
